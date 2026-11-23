@@ -27,7 +27,7 @@ I use AI coding tools (Claude Code, Codex, GitHub Copilot, Antigravity) and say 
 
 - **IT support:** Windows 10/11, Windows Server 2019/2022, Active Directory, Group Policy, Office 365, ServiceNow, Jira
 - **Networking and virtualisation:** VirtualBox, VMware, TCP/IP, DHCP, DNS
-- **IoT:** ESP32, Arduino, Blynk
+- **IoT:** ESP32, Arduino, Blynk, Arduino uno, Raspberry pi, sensor calibrations and more...
 - **Programming:** Python, JavaScript, SQL, HTML, CSS, Java
 - **Web and backend:** React.js, Vite, Tailwind CSS, Node.js, Express, FastAPI, SQLite
 - **Cloud and tools:** Google Cloud Run, BigQuery, Google ADK, Git and GitHub, Vercel, Render, VS Code, Kotlin, Android Studio
