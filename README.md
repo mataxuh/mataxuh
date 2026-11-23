@@ -43,13 +43,9 @@ I use AI coding tools (Claude Code, Codex, GitHub Copilot, Antigravity) and say 
 - Co-founder, ApexITGroup, a student IT services startup on campus
 - Program Facilitator for the UniSIRAJ orientation programme (MOS) and community volunteer
 
-## Badges:
-
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/mr-matazu)
-- [![GitHub followers](https://img.shields.io/github/followers/Mataxuh?label=Follow&style=social)](https://github.com/Mataxuh)
-
 
 ## Connect
 
-- LinkedIn: [linkedin.com/in/muhammad-rabiu-iot-my](https://www.linkedin.com/in/muhammad-rabiu-iot-my/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-rabiu-iot-my/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&logoColor=white)](mailto:muhammadrabiumtz@gmail.com)
 <!-- Portfolio: add the link here after the Vercel deploy -->
