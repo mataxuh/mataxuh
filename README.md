@@ -49,4 +49,4 @@ I use AI coding tools (Claude Code, Codex, GitHub Copilot, Antigravity) and say 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-rabiu-iot-my/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&logoColor=white)](mailto:muhammadrabiumtz@gmail.com)
 <!-- Portfolio: add the link here after the Vercel deploy -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-View-2563EB?logo=vercel&logoColor=white)](https://YOUR-VERCEL-URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-2563EB?logo=vercel&logoColor=white)](https://under-development-URL)
