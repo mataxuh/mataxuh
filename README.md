@@ -42,12 +42,9 @@ I use AI coding tools (Claude Code, Codex, GitHub Copilot, Antigravity) and say 
 - Deputy Head, JAKSA UniSIRAJ (2026 to 2027)
 - Co-founder, ApexITGroup, a student IT services startup on campus
 - Program Facilitator for the UniSIRAJ orientation programme (MOS) and community volunteer
-  
-
-I'm open to collaboration, internships, and freelance opportunities — feel free to reach out on LinkedIn or via GitHub.
-
 
 ## Current status: 
+
 **Open to opportunities / hireable** ✅
 
 
